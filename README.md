@@ -9,11 +9,13 @@
 <h6> Made using <p>Java</p><h6>
 
 <h3> Screenshots </h3>
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![IMG_20221117_140846](https://user-images.githubusercontent.com/81035297/202405343-2c94a870-a384-4a27-b6b7-a4584cdfddd3.jpg)  |  ![IMG_20221117_140819](https://user-images.githubusercontent.com/81035297/202405388-a6811f6a-9f2e-4407-bab5-96a435573e99.jpg)
+<p float="left">
+![IMG_20221117_140846](https://user-images.githubusercontent.com/81035297/202405568-e99e0ccc-ecac-4d0b-bca5-24a77776d933.jpg)
+![IMG_20221117_140819](https://user-images.githubusercontent.com/81035297/202405582-d6cd080c-dc16-4e79-b62d-9e7350d35132.jpg)
+</p>
 
-
-
-
-
+<p float="left">
+  <img src="[/img1.png](https://user-images.githubusercontent.com/81035297/202405568-e99e0ccc-ecac-4d0b-bca5-24a77776d933.jpg)" width="100" />
+  <img src="/img2.png" width="100" /> 
+  <img src="/img3.png" width="100" />
+</p>
