@@ -11,7 +11,8 @@
 <h3> Screenshots </h3>
 Solarized dark             |  Solarized Ocean
 :-------------------------:|:-------------------------:
-![IMG_20221117_140819](https://user-images.githubusercontent.com/81035297/202404481-cd6d99da-7220-446c-b553-9a2e58713e2d.jpg)  |  ![IMG_20221117_140846](https://user-images.githubusercontent.com/81035297/202404460-974844ab-cc31-4894-b7fb-e5bb9b0d7a12.jpg)
+![IMG_20221117_140846](https://user-images.githubusercontent.com/81035297/202405343-2c94a870-a384-4a27-b6b7-a4584cdfddd3.jpg)  |  ![IMG_20221117_140819](https://user-images.githubusercontent.com/81035297/202405388-a6811f6a-9f2e-4407-bab5-96a435573e99.jpg)
+
 
 
 
