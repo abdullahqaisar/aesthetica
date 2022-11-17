@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragments.EditPictureFragment">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="620dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/editingtemplate" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Feeling Bored?"
+            android:textSize="15dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"/>
+
+        <Button
+            android:id="@+id/btn_editPicture"
+            android:layout_width="120dp"
+            android:layout_height="50dp"
+            android:backgroundTint="@color/light_pink"
+            android:stateListAnimator="@null"
+            android:text="Start Editing"
+            android:textColor="#1B1B1B"
+            android:textSize="10dp"
+            android:layout_gravity="center_horizontal"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

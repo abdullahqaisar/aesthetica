@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/aesthetic"
+        android:icon="@drawable/aesthetic"
+        android:title="Aesthetic"
+        app:cnb_iconColor="@color/pink"
+        app:cnb_textColor="@color/pink"
+        app:cnb_backgroundColor = "#BAFFB2EE"
+        />
+
+    <item
+        android:id="@+id/nature"
+        android:icon="@drawable/nature"
+        android:title="Nature"
+        app:cnb_iconColor="@color/pink"
+        app:cnb_textColor="@color/pink"
+        app:cnb_backgroundColor = "#BAFFB2EE"
+        />
+
+    <item
+        android:id="@+id/retro"
+        android:icon="@drawable/retro"
+        android:title="Retro"
+        app:cnb_iconColor="@color/pink"
+        app:cnb_textColor="@color/pink"
+        app:cnb_backgroundColor = "#BAFFB2EE"
+        />
+
+    <item
+        android:id="@+id/abstractWallpaper"
+        android:icon="@drawable/abstract_icon"
+        android:title="Abstract"
+        app:cnb_iconColor="@color/pink"
+        app:cnb_textColor="@color/pink"
+        app:cnb_backgroundColor = "#BAFFB2EE"
+        />
+</menu>

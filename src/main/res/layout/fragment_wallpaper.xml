@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/container"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Discover"
+            android:textSize="25dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="11dp"
+            android:textColor="@color/black"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Explore your favourite wallpapers"
+            android:textSize="12dp"
+            android:layout_marginLeft="11dp"
+            android:textColor="@color/black"/>
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginTop="14dp"
+            android:layout_marginBottom="14dp"
+            android:layout_marginLeft="11dp"
+            android:layout_marginRight="11dp"
+            android:backgroundTint="#3EFFB2EE"
+            app:cardCornerRadius="7dp"
+            app:cardElevation="0dp">
+
+            <EditText
+                android:id="@+id/et_searchWallpaper"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:backgroundTint="#00FFB2EE"
+                android:paddingLeft="10dp"
+                android:textColor="@color/pink"
+                android:singleLine="true"
+                android:textSize="15dp"
+                android:hint="Search your Category"
+                android:imeOptions="actionSearch"/>
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:src="@drawable/search"
+                android:layout_gravity="end"
+                android:paddingRight="10dp"
+                />
+        </androidx.cardview.widget.CardView>
+
+        <com.ismaeldivita.chipnavigation.ChipNavigationBar
+            android:id="@+id/categoriesNavigation"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_alignParentBottom="true"
+            app:cnb_menuResource="@menu/categories_item"
+            android:layout_marginBottom="5dp"/>
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/recyclerView"/>
+    </LinearLayout>
+
+</ScrollView>
