@@ -1,5 +1,7 @@
 <p width="100">
-![image](https://user-images.githubusercontent.com/81035297/202406175-d894bc5e-2a3a-4f8a-a107-3f7f87c36fde.png)
+
+  ![image](https://user-images.githubusercontent.com/81035297/202406175-d894bc5e-2a3a-4f8a-a107-3f7f87c36fde.png)
+
 </p3>
 <h3> A wallpaper application through which users can set wallpapers on their mobile phones and edit images. </h3>
 
