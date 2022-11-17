@@ -1,6 +1,7 @@
 <p align="center">
-</p>
-![image](https://user-images.githubusercontent.com/81035297/202402971-c849231e-258c-4b4b-b2c0-f185ca1add27.png)
+![image](https://user-images.githubusercontent.com/81035297/202405927-ed9eec19-52d2-4fc9-bc79-b2397b50bc25.png)
+
+
 
 
 
@@ -9,13 +10,8 @@
 <h6> Made using <p>Java</p><h6>
 
 <h3> Screenshots </h3>
-<p float="left">
-![IMG_20221117_140846](https://user-images.githubusercontent.com/81035297/202405568-e99e0ccc-ecac-4d0b-bca5-24a77776d933.jpg)
-![IMG_20221117_140819](https://user-images.githubusercontent.com/81035297/202405582-d6cd080c-dc16-4e79-b62d-9e7350d35132.jpg)
-</p>
+  ![IMG_20221117_140846](https://user-images.githubusercontent.com/81035297/202405965-37fb88b2-e6f9-4837-a388-636cbcd2a146.jpg)
+![IMG_20221117_140819](https://user-images.githubusercontent.com/81035297/202405989-fdf3a0f1-ca08-44f2-b5f9-dc2909155536.jpg)
 
-<p float="left">
-  <img src="[/img1.png](https://user-images.githubusercontent.com/81035297/202405568-e99e0ccc-ecac-4d0b-bca5-24a77776d933.jpg)" width="100" />
-  <img src="/img2.png" width="100" /> 
-  <img src="/img3.png" width="100" />
+  
 </p>
