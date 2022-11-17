@@ -1,5 +1,5 @@
 <p width="10">
-
+<img src="https://user-images.githubusercontent.com/81035297/202406175-d894bc5e-2a3a-4f8a-a107-3f7f87c36fde.png" alt="Smiley face" height="42" width="42">
   ![image](https://user-images.githubusercontent.com/81035297/202406175-d894bc5e-2a3a-4f8a-a107-3f7f87c36fde.png)
 
 
