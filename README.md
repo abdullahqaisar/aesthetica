@@ -2,7 +2,7 @@
 
 <h3> A wallpaper application through which users can set wallpapers on their mobile phones and edit images. </h3>
 
-<h6> Made using <p>Java</p><h6>
+<h6> Made using <b>Java</b><h6>
 
 <h3> Screenshots </h3>
 
